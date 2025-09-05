@@ -4,7 +4,10 @@
 
 FEAScript consists of several components:
 
-- The main library, [FEAScript core](https://github.com/FEAScript/FEAScript), which is distributed under the terms of the <a href="https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE" target="_blank">MIT license</a>.
-- The [FEAScript platform](https://github.com/FEAScript/FEAScript-platform), a browser-based visual editor released under the <a href="https://github.com/FEAScript/FEAScript-platform/blob/main/LICENSE" target="_blank">MIT license</a>.
-- Examples in various formats: [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples) showcasing direct API usage, and [XML examples](https://github.com/FEAScript/FEAScript-platform/tree/main/examples) for the FEAScript Platform visual editor.
-- The [FEAScript website](https://github.com/FEAScript/FEAScript-website) and the [FEAScript blog](https://github.com/FEAScript/FEAScript-blog) which are licensed under <a href="https://github.com/FEAScript/FEAScript-website/blob/main/LICENSE" target="_blank">CC-BY 4.0</a>.
+- The main library, [FEAScript core](https://github.com/FEAScript/FEAScript), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE).
+- The [FEAScript platform](https://github.com/FEAScript/FEAScript-platform), a browser-based visual editor, also released under the [MIT license](https://github.com/FEAScript/FEAScript-platform/blob/main/LICENSE).
+- Examples in multiple formats:
+  - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage
+  - [XML examples](https://github.com/FEAScript/FEAScript-platform/tree/main/examples), for use with the [FEAScript Platform](https://platform.feascript.com/) visual editor
+  - [Scribbler examples](https://github.com/nikoscham/FEAScript-Scribbler-examples), designed to run on [Scribbler](https://scribbler.live/), an interactive JavaScript notebook tool
+- The [FEAScript website](https://github.com/FEAScript/FEAScript-website) and the [FEAScript blog](https://github.com/FEAScript/FEAScript-blog), both licensed under [CC-BY 4.0](https://github.com/FEAScript/FEAScript-website/blob/main/LICENSE).
