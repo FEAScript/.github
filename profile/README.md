@@ -5,7 +5,7 @@
 FEAScript consists of several components:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE).
-- The [FEAScript platform](https://github.com/FEAScript/FEAScript-platform), a browser-based visual editor, also released under the [MIT license](https://github.com/FEAScript/FEAScript-platform/blob/main/LICENSE).
+- The [FEAScript Platform](https://github.com/FEAScript/FEAScript-platform), a browser-based visual editor, also released under the [MIT license](https://github.com/FEAScript/FEAScript-platform/blob/main/LICENSE).
 - Examples in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage
   - [XML examples](https://github.com/FEAScript/FEAScript-platform/tree/main/examples), for use with the [FEAScript Platform](https://platform.feascript.com/) visual editor
