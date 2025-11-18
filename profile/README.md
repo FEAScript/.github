@@ -8,6 +8,6 @@ FEAScript consists of several components:
 - The [FEAScript Platform](https://feascript.com/feascript-platform.html), a browser-based visual editor.
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
-  - [Pens on CodePen](https://codepen.io/FEAScript), for live, editable demos in the browser.
+  - [Pens](https://codepen.io/FEAScript) on [CodePen](https://codepen.io), for live, editable demos in the browser.
   - [Notebooks](https://github.com/FEAScript/FEAScript-Scribbler-examples) on [Scribbler](https://scribbler.live/), an interactive JavaScript notebook tool.
 - The [website](https://github.com/FEAScript/FEAScript-website) and [blog](https://github.com/FEAScript/FEAScript-blog), both licensed under [CC-BY 4.0](https://github.com/FEAScript/FEAScript-website/blob/main/LICENSE), with tutorials, updates and various resources.
