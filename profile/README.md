@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://feascript.com/assets/feascript-banner-github.png" width="100%" alt="FEAScript Banner" />
+</div>
+
 ### FEAScript: A JavaScript Finite Element Simulation Library
 
 <a href="https://feascript.com/" target="_blank">FEAScript</a> is a lightweight finite element simulation library built in JavaScript. It empowers users to perform simulations for physics and engineering applications in both browser-based and server-side environments.
