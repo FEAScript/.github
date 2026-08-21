@@ -8,8 +8,8 @@
 src="https://feascript.com/assets/favicon.ico"
 alt="FEAScript Icon"
 style="vertical-align: middle; margin-right: 5px; height: 1em; width: auto"
-/> <a href="https://feascript.com/" target="_blank">FEAScript</a> is a finite element simulation library developed in JavaScript. It enables engineering simulations across both browser-based and server-side environments without the overhead of traditional desktop software.
-<br>🎯 **Our goal is to provide the most powerful JavaScript API for FEM.** We are closing the gap between complex computational mechanics and the accessibility of the web, empowering developers to build professional-grade simulation tools that work on any device, anywhere.
+/> **<a href="https://feascript.com/" target="_blank">FEAScript</a> is a finite element simulation library developed in JavaScript**. It enables engineering simulations across both browser-based and server-side environments without the overhead of traditional desktop software.
+<br>🎯 **Our goal is to provide the most powerful JavaScript API for FEM**. We are closing the gap between complex computational mechanics and the accessibility of the web, empowering developers to build professional-grade simulation tools that work on any device, anywhere.
 
 FEAScript consists of several components:
 
