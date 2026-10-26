@@ -11,11 +11,11 @@ style="vertical-align: middle; margin-right: 5px; height: 1em; width: auto"
 /> **<a href="https://feascript.com/" target="_blank">FEAScript</a> is a finite element simulation library developed in JavaScript**. It enables engineering simulations across both browser-based and server-side environments without the overhead of traditional desktop software.
 <br>🎯 **Our goal is to provide the most powerful JavaScript API for FEM**. We are closing the gap between complex computational mechanics and the accessibility of the web, empowering developers to build professional-grade simulation tools that work on any device, anywhere.
 
-FEAScript consists of several components:
+The FEAScript ecosystem includes:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE).
-  - The [tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests), including unit, verification and regression tests that validate the solvers' correctness.
-- The [documentation](https://docs.feascript.com/), covering the API, usage guides and theory.
+- The [tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests), including unit, verification and regression tests to check numerical accuracy.
+- The [documentation](https://github.com/FEAScript/FEAScript-documentation), covering the API, usage guides and theory, under [CC-BY 4.0](https://github.com/FEAScript/FEAScript-documentation/blob/main/LICENSE).
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
   - [Pens](https://codepen.io/FEAScript) on [CodePen](https://codepen.io), for live, editable demos in the browser.
