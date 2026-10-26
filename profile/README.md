@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://feascript.com/assets/feascript-banner-github.png" width="100%" alt="FEAScript Banner" />
+  <img src="./feascript-banner.svg" width="100%" alt="FEAScript: A JavaScript finite element library, for the web." />
 </div>
 
 ### FEAScript: A JavaScript Finite Element Simulation Library
@@ -14,6 +14,8 @@ style="vertical-align: middle; margin-right: 5px; height: 1em; width: auto"
 FEAScript consists of several components:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE).
+  - The [tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests), including unit, verification and regression tests that validate the solvers' correctness.
+- The [documentation](https://docs.feascript.com/), covering the API, usage guides and theory.
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
   - [Pens](https://codepen.io/FEAScript) on [CodePen](https://codepen.io), for live, editable demos in the browser.
