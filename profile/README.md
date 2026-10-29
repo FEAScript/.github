@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./feascript-banner.svg" width="100%" alt="FEAScript: A JavaScript finite element library, for the web." />
+  <img src="https://feascript.com/assets/feascript-banner.svg" width="100%" alt="FEAScript: A JavaScript finite element library, for the web." />
 </div>
 
 ### FEAScript: A JavaScript Finite Element Simulation Library
