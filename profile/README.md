@@ -15,7 +15,7 @@ style="vertical-align: middle; margin-right: 5px; height: 1em; width: auto"
 The FEAScript ecosystem includes:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE), with [unit, verification and regression tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests) to check numerical accuracy.
-- The [documentation](https://github.com/FEAScript/FEAScript-documentation), covering the API, usage guides and theory, under [CC-BY 4.0](https://github.com/FEAScript/FEAScript-documentation/blob/main/LICENSE).
+- The [documentation](https://docs.feascript.com) ([source](https://github.com/FEAScript/FEAScript-documentation)), covering the API, usage guides and theory, under [CC-BY 4.0](https://github.com/FEAScript/FEAScript-documentation/blob/main/LICENSE).
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
   - [Pens](https://codepen.io/FEAScript) on [CodePen](https://codepen.io), for live, editable demos in the browser.
@@ -26,4 +26,5 @@ The FEAScript ecosystem includes:
 
 💬 Join the conversation on [Discord](https://discord.gg/3DVjNcuW4f) or follow us on [LinkedIn](https://www.linkedin.com/company/feascript/).
 <br>🛠️ Contributions are welcome! See the [contributing guide](https://github.com/FEAScript/FEAScript-core/blob/main/CONTRIBUTING.md) to get started.
+<br>📨 Join the [mailing list](https://mailchi.mp/e29600955ffe/join-the-mailing-list) to receive project updates and news.
 <br>❤️ Support the project via [GitHub Sponsors](https://github.com/sponsors/FEAScript) or [Liberapay](https://liberapay.com/FEAScript/donate).
