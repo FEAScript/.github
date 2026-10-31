@@ -24,7 +24,7 @@ The FEAScript ecosystem includes:
 
 ### Get involved
 
-💬 Join the conversation on [Discord](https://discord.gg/3DVjNcuW4f) or follow us on [LinkedIn](https://www.linkedin.com/company/feascript/).
+💬 Join the conversation on [Discord](https://discord.gg/3DVjNcuW4f) or follow us on [LinkedIn](https://www.linkedin.com/company/feascript/) and [Bluesky](https://bsky.app/profile/feascript.com).
 <br>🛠️ Contributions are welcome! See the [contributing guide](https://github.com/FEAScript/FEAScript-core/blob/main/CONTRIBUTING.md) to get started.
 <br>📨 Join the [mailing list](https://mailchi.mp/e29600955ffe/join-the-mailing-list) to receive project updates and news.
 <br>❤️ Support the project via [GitHub Sponsors](https://github.com/sponsors/FEAScript) or [Liberapay](https://liberapay.com/FEAScript/donate).
