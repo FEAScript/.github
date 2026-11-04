@@ -11,6 +11,7 @@
 The FEAScript ecosystem includes:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE), with [unit, verification and regression tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests) to check numerical accuracy.
+- The [benchmarks](https://github.com/FEAScript/FEAScript-benchmark), comparing FEAScript with [Elmer](https://www.elmerfem.org/) on accuracy, run time and memory, and tracking its speed-up across versions, under the [MIT license](https://github.com/FEAScript/FEAScript-benchmark/blob/main/LICENSE).
 - The [documentation](https://docs.feascript.com) ([source](https://github.com/FEAScript/FEAScript-documentation)), covering the API, usage guides and theory, under [CC BY 4.0](https://github.com/FEAScript/FEAScript-documentation/blob/main/LICENSE).
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
