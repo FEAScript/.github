@@ -11,12 +11,12 @@
 The FEAScript ecosystem includes:
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE), with [unit, verification and regression tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests) to check numerical accuracy.
-- The [benchmarks](https://github.com/FEAScript/FEAScript-benchmark), comparing FEAScript with [Elmer](https://www.elmerfem.org/) on accuracy, run time and memory, and tracking its speed-up across versions, under the [MIT license](https://github.com/FEAScript/FEAScript-benchmark/blob/main/LICENSE).
 - The [documentation](https://docs.feascript.com) ([source](https://github.com/FEAScript/FEAScript-documentation)), covering the API, usage guides and theory, under [CC BY 4.0](https://github.com/FEAScript/FEAScript-documentation/blob/main/LICENSE).
 - The examples, provided in multiple formats:
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
   - [Pens](https://codepen.io/FEAScript) on [CodePen](https://codepen.io), for live, editable demos in the browser.
   - [Notebooks](https://github.com/FEAScript/FEAScript-Scribbler-examples) on [Scribbler](https://scribbler.live/), an interactive JavaScript notebook tool.
+- The [benchmarks](https://github.com/FEAScript/FEAScript-benchmark), comparing FEAScript with established finite element software on accuracy, run time and memory, and tracking its speed-up across versions, under the [MIT license](https://github.com/FEAScript/FEAScript-benchmark/blob/main/LICENSE).
 - The [website](https://feascript.com) ([source](https://github.com/FEAScript/FEAScript-website)) and [blog](https://blog.feascript.com) ([source](https://github.com/FEAScript/FEAScript-blog)), both licensed under [CC BY 4.0](https://github.com/FEAScript/FEAScript-website/blob/main/LICENSE), with tutorials, updates and various resources.
 - [Tri's Lab by FEAScript](https://lab.feascript.com) ([source](https://github.com/FEAScript/FEAScript-tris-lab)), a playful place for students and beginners to discover the finite element method through a pixel-art game and block-based missions, with code under the [MIT license](https://github.com/FEAScript/FEAScript-tris-lab/blob/main/LICENSE) and writing and art under [CC BY 4.0](https://github.com/FEAScript/FEAScript-tris-lab/blob/main/LICENSE-CONTENT).
 
