@@ -12,7 +12,11 @@
 
 ⚙️ **What it solves:** heat conduction, creeping (Stokes) flow, Euler–Bernoulli beams, front propagation and general-form PDEs (linear and nonlinear), with Gmsh mesh import, CPU/WebGPU solvers and web worker support.
 
-🚀 **Get started** in a browser page with a single import, or install it from [npm](https://www.npmjs.com/package/feascript) with `npm install feascript`:
+> 🚧 FEAScript is under active development, so its API may change between releases.
+
+### Get started
+
+🚀 Use it in a browser page with a single import, or install it from [npm](https://www.npmjs.com/package/feascript) with `npm install feascript`:
 
 ```html
 <script type="module">
@@ -20,9 +24,7 @@
 </script>
 ```
 
-> 🚧 FEAScript is under active development, so its API may change between releases.
-
-The FEAScript ecosystem includes:
+### The FEAScript ecosystem
 
 - The main library, [FEAScript core](https://github.com/FEAScript/FEAScript-core), distributed under the MIT license, with [unit, verification and regression tests](https://github.com/FEAScript/FEAScript-core/tree/main/tests) to check numerical accuracy.
 - The [documentation](https://docs.feascript.com) ([source](https://github.com/FEAScript/FEAScript-documentation)), covering the API, usage guides and theory, under CC BY 4.0.
