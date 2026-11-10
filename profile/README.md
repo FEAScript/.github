@@ -8,7 +8,7 @@
 
 <img src="https://feascript.com/assets/favicon.ico" alt="FEAScript Icon" width="18" height="18"> **[FEAScript](https://feascript.com/) is a finite element simulation library developed in JavaScript.** It runs engineering simulations in the browser or in Node.js, with no desktop software to install.
 
-🎯 **Our goal is a powerful JavaScript API for FEM**, so that developers can build professional-grade simulation tools that work on any device, anywhere.
+🎯 **A JavaScript API for FEM:** set up a model, solve it and plot the results in JavaScript, and build the simulation into your own web pages and applications.
 
 ⚙️ **What it solves:** heat conduction, creeping (Stokes) flow, Euler–Bernoulli beams, front propagation and general-form PDEs (linear and nonlinear), with Gmsh mesh import, CPU/WebGPU solvers and web worker support.
 
@@ -32,7 +32,7 @@
   - [Node.js implementations](https://github.com/FEAScript/FEAScript-core/tree/main/examples), showcasing direct API usage.
   - [Pens](https://codepen.io/FEAScript) on CodePen, for live, editable demos in the browser.
   - [Notebooks](https://github.com/FEAScript/FEAScript-Scribbler-examples) on [Scribbler](https://scribbler.live/), an interactive JavaScript notebook tool.
-- The [benchmarks](https://github.com/FEAScript/FEAScript-benchmark), comparing FEAScript with established finite element software on accuracy, run time and memory, and tracking its speed-up across versions, under the MIT license.
+- The [benchmarks](https://github.com/FEAScript/FEAScript-benchmark), comparing FEAScript with Elmer and scikit-fem on accuracy, run time and memory, and tracking its speed-up across versions, under the MIT license. The [website](https://feascript.com/#verification) shows the key results.
 - The [website](https://feascript.com) ([source](https://github.com/FEAScript/FEAScript-website)) and [blog](https://blog.feascript.com) ([source](https://github.com/FEAScript/FEAScript-blog)), both licensed under CC BY 4.0, with tutorials, updates and various resources.
 - [Tri's Lab by FEAScript](https://lab.feascript.com) ([source](https://github.com/FEAScript/FEAScript-tris-lab)), a playful place for students and beginners to discover the finite element method through a pixel-art game and block-based missions, with code under the MIT license and writing and art under CC BY 4.0.
 
