@@ -16,7 +16,7 @@
 
 ### Get started
 
-🚀 Use it in a browser page with a single import, or install it from [npm](https://www.npmjs.com/package/feascript) with `npm install feascript`:
+Use it in a browser page with a single import, or install it from [npm](https://www.npmjs.com/package/feascript) with `npm install feascript`:
 
 ```html
 <script type="module">
